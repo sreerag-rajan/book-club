@@ -1,0 +1,6 @@
+[submodule "Book-Club-Frontend"]
+	path = Book-Club-Frontend
+	url = https://github.com/Gourav135/Book-Club-Frontend.git
+[submodule "book-club-server"]
+	path = book-club-server
+	url = https://github.com/sreerag-rajan/book-club-server.git
